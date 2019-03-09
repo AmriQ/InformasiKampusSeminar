@@ -10,14 +10,13 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView"
+        android:text="Selamat Datang"
         android:background="@android:color/holo_blue_dark"
         android:padding="10sp"
         android:textFontWeight="bold"
         android:textSize="24sp"
         tools:layout_editor_absoluteX="120dp"
         tools:layout_editor_absoluteY="280dp"
-        tools:text="Selamat Datang"
         android:textAlignment="center"/>
 
 
